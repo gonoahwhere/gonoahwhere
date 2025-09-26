@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Public%20Repos-20-4259ed" alt="Public Repo Count" />
   <img src="https://img.shields.io/badge/Current%20Project-Toastoku-4259ed" alt="Current Project" />
   <img src="https://img.shields.io/badge/Main%20Language-JavaScript-4259ed" alt="Main Language Used" />
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/Operating Systems-Linux_|_Windows_|_MacOS-4259ed" alt="Operating Systems Used" />
   <img src="https://komarev.com/ghpvc/?username=gonoahwhere&label=Profile%20views&color=4259ed&style=flat" alt="gonoahwhere" />
   <br><br>
