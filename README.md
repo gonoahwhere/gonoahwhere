@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/- HTML-ed4242?logo=HTML5&logoColor=white&labelColor=grey" alt="HTML" />
   <img src="https://img.shields.io/badge/- Lua-ed4242?logo=lua&logoColor=white&labelColor=grey" alt="HTML" />
   <img src="https://img.shields.io/badge/- CSS-ed4242?logo=css&logoColor=white&labelColor=grey" alt="HTML" />
+  <img src="https://img.shields.io/badge/- C++-ed4242?logo=cplusplus&logoColor=white&labelColor=grey" alt="C++" />
+  <img src="https://img.shields.io/badge/- Python-ed4242?logo=python&logoColor=white&labelColor=grey" alt="Python" />
 </div>
 
 #
@@ -23,9 +25,10 @@
 <br>
 
 ### Technologies & Tools
-- **Languages**: JavaScript, HTML, CSS, Lua  
+- **Languages**: JavaScript, HTML, Lua, CSS, C++, Python
 - **Databases**: MongoDB  
 - **Frameworks**: Node.js, Express  
 
 ### Current Focus
-- Developing **Toastoku**: A Discord Sudoku bot with multiplayer support.  
+- Developing **Toastoku**: A Discord Sudoku bot with multiplayer support.
+- Developing **Toastoku Desktop App**: A Desktop variant of the beloved Discord Sudoku bot.
