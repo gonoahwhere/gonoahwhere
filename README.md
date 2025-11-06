@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/- MongoDB-ed4242?logo=mongodb&logoColor=white&labelColor=grey" alt="MongoDB">
   <img src="https://img.shields.io/badge/- JavaScript-ed4242?logo=javascript&logoColor=white&labelColor=grey" alt="JavaScript" />
   <img src="https://img.shields.io/badge/- HTML-ed4242?logo=HTML5&logoColor=white&labelColor=grey" alt="HTML" />
-  <img src="https://img.shields.io/badge/- Lua-ed4242?logo=lua&logoColor=white&labelColor=grey" alt="HTML" />
-  <img src="https://img.shields.io/badge/- CSS-ed4242?logo=css&logoColor=white&labelColor=grey" alt="HTML" />
+  <img src="https://img.shields.io/badge/- Lua-ed4242?logo=lua&logoColor=white&labelColor=grey" alt="Lua" />
+  <img src="https://img.shields.io/badge/- CSS-ed4242?logo=css&logoColor=white&labelColor=grey" alt="CSS" />
   <img src="https://img.shields.io/badge/- C++-ed4242?logo=cplusplus&logoColor=white&labelColor=grey" alt="C++" />
   <img src="https://img.shields.io/badge/- Python-ed4242?logo=python&logoColor=white&labelColor=grey" alt="Python" />
 </div>
@@ -25,10 +25,31 @@
 <br>
 
 ### Technologies & Tools
-- **Languages**: JavaScript, HTML, Lua, CSS, C++, Python
-- **Databases**: MongoDB  
-- **Frameworks**: Node.js, Express  
+- $$\color{white}\mathsf{\textbf{Languages}}
+  \color{white}\mathsf{\text{: }}
+  \color{#ffea00}\mathsf{\text{JavaScript}}
+  \color{white}\mathsf{\text{, }}
+  \color{#f28c28}\mathsf{\text{HTML}}
+  \color{white}\mathsf{\text{, }}
+  \color{#15f4ee}\mathsf{\text{Lua}}
+  \color{white}\mathsf{\text{, }}
+  \color{#007fff}\mathsf{\text{CSS}}
+  \color{white}\mathsf{\text{, }}
+  \color{#f34b7d}\mathsf{\text{C++}}
+  \color{white}\mathsf{\text{, }}
+  \color{#2aaa8a}\mathsf{\text{Python}}
+  $$
+- $$\color{white}\mathsf{\textbf{Databases}}
+  \color{white}\mathsf{\text{: }}
+  \color{#86ff91}\mathsf{\text{MongoDB}}
+  $$
+- $$\color{white}\mathsf{\textbf{Frameworks}}
+  \color{white}\mathsf{\text{: }}
+  \color{#6cc24a}\mathsf{\text{Node.JS}}
+  \color{white}\mathsf{\text{, }}
+  \color{#89cff0}\mathsf{\text{Express}}
+  $$  
 
 ### Current Focus
-- Developing **Toastoku**: A Discord Sudoku bot with multiplayer support.
-- Developing **Toastoku Desktop App**: A Desktop variant of the beloved Discord Sudoku bot.
+- $$\color{white}\mathsf{\text{Developing }} \color{#ffc577}\normalsize \mathsf{\textbf{Toastoku Discord Bot}} \color{white}\mathsf{\text{: A Desktop variant of the beloved Discord Sudoku bot.}}$$
+- $$\color{white}\mathsf{\text{Developing }} \color{#ffc577}\normalsize \mathsf{\textbf{Toastoku Desktop App}} \color{white}\mathsf{\text{: A Desktop variant of the beloved Discord Sudoku bot.}}$$
