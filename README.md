@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/- Python-ed4242?logo=python&logoColor=white&labelColor=grey" alt="Python" />
 </div>
 
-#
-
+<br>
 <br>
 
 ### Technologies & Tools
