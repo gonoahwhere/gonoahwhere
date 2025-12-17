@@ -50,5 +50,5 @@
   $$  
 
 ### Current Focus
-- $$\color{white}\mathsf{\text{Developing }} \color{#ffc577}\normalsize \mathsf{\textbf{Toastoku Discord Bot}} \color{white}\mathsf{\text{: A Desktop variant of the beloved Discord Sudoku bot.}}$$
+- $$\color{white}\mathsf{\text{Developing }} \color{#ffc577}\normalsize \mathsf{\textbf{Toastoku Discord Bot}} \color{white}\mathsf{\text{: A beloved Discord Sudoku bot.}}$$
 - $$\color{white}\mathsf{\text{Developing }} \color{#ffc577}\normalsize \mathsf{\textbf{Toastoku Desktop App}} \color{white}\mathsf{\text{: A Desktop variant of the beloved Discord Sudoku bot.}}$$
